@@ -1,0 +1,51 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.weather-sunny {
+    background-color: #ffeb3b;
+    color: #333;
+}
+
+.weather-cloudy {
+    background-color: #b0bec5;
+    color: #333;
+}
+
+.weather-rainy {
+    background-color: #0288d1;
+    color: #fff;
+}
+
+.pokemon-bg {
+    background-color: #ffcb05;
+    color: #003087;
+}
+
+.news-bg {
+    background-color: #e3f2fd;
+}
+
+.currency-bg {
+    background-color: #e8f5e9;
+}
+
+.country-bg {
+    background-color: #fff3e0;
+}
+
+.joke-bg {
+    background-color: #fce4ec;
+}
